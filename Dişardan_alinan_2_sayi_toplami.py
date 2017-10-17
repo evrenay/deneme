@@ -8,3 +8,4 @@ def topla(birinci,ikinci):
 
 sonuc = topla(ilksayi,ikincisayi)
 print(sonuc)
+
